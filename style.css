@@ -1,1 +1,87 @@
+h1{
+    text-align: center;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+    background-color: aqua;
+}
 
+h3{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+    text-align: center;
+}
+
+h4{
+    color:white;
+    margin-top: 10px;
+    
+    text-align: center;
+}
+
+body{
+    background-color: black;
+    justify-content: center;
+
+}
+
+#search{
+    display: flex;
+    justify-content: center; 
+    padding-bottom: 5%;
+}
+
+button{
+    background-color: aqua;
+    text-align: center;
+    margin-left: 2px;
+    padding: 5px 5px;
+}
+
+#moreButton{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+/*.movies{
+    /* float: left;
+    width: 20%;
+    
+    /* display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;  
+
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-evenly;
+
+
+}*/
+
+.info{
+    display: flex;
+    grid-template-columns: repeat(3, 1fr);
+    float: left;
+    width: 20%;
+    color: white;
+    padding-left: 3%;
+    padding-bottom: 5%;
+    justify-content: center;
+   /* display: flex;
+    color: white;
+    width: 20%;
+    margin: 10px;
+    border: 3px;*/
+}
+
+.text{
+ position: absolute;
+ padding-top: 20%;
+ margin-left: 5%;
+ margin-right: 5%;
+}
