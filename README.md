@@ -10,6 +10,11 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Application Features
 
+
+https://loom.com/share/916c1c40d0be4e3ab07e85a84bb7e5a0
+
+
+
 #### CORE FEATURES
 
 - [ x] User can view a list of current movies from The Movie Database API as a grid view
@@ -50,15 +55,15 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The labs did prepare me for the project mainly the Giphy party lab made me alot more comfoatble with API's going into the project. I kind of knew what to expect so nothing surprised me too much.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If given more time I wouldve attempted to personalize my website so using css and other styling methods.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Alot of my peers added extra features that werent required, seeing things like that made me feel as if my website wasnt that good. If given another chance I would personalize the website and add more features to make it look like a website that someone would actually use.
 
 ### Open-source libraries used
 
